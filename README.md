@@ -4,4 +4,4 @@ JS Tabs
 ---------------------------
 index.html - верстка
 style.css - стили
-script.js - функциональность
+script.js - функционал
